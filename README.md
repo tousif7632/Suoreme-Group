@@ -66,10 +66,6 @@ supreme-group/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
 ### Installation
 
 1. **Clone the repository**
@@ -99,7 +95,7 @@ supreme-group/
 
 ```bash
 npm run build
-npm start
+npm run dev
 ```
 
 ## 📱 Responsive Design
@@ -192,9 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Email: info@supremegroup.com
-- Phone: +1 (555) 123-4567
-- Website: https://supremegroup.com
+- Email: mdtousifalam85@gmail.com
+- Phone: +91 7857024383
 
 ## 🙏 Acknowledgments
 
